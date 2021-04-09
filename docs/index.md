@@ -16,27 +16,17 @@ I am always researching and learning about new technologies. I applied methodolo
 
 <codersrank-skills-chart username="ovillafuerte94" legend tooltip labels></codersrank-skills-chart>
 
-### GitHub Stats
-
-<a href="https://github.com/ovillafuerte94" target="_blanck">
-    <img class="img-fluid" src="https://github-readme-stats.vercel.app/api?username=ovillafuerte94&count_private=true&show_icons=true&title_color=72a0a8&text_color=72a0a8&icon_color=72a0a8" alt="ovillafuerte94" />
-</a>
-
-### GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ovillafuerte94&column=3)
-
 ## Experience
 
-<codersrank-work-experience username="ovillafuerte94"></codersrank-work-experience>
+<codersrank-work-experience username="ovillafuerte94" logos="true" branding="false"></codersrank-work-experience>
 
 ## Education
 
-<codersrank-education username="ovillafuerte94" certificates="false" grid style="--grid-columns:2"></codersrank-education>
+<codersrank-education username="ovillafuerte94" certificates="false" branding="false"></codersrank-education>
 
 ## Certificates
 
-<codersrank-education username="ovillafuerte94" education="false" grid style="--grid-columns:3"></codersrank-education>
+<codersrank-education username="ovillafuerte94" education="false" branding="false" grid="true" style="--grid-columns:2"></codersrank-education>
 
 ## Languages
 

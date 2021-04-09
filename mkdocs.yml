@@ -24,7 +24,7 @@ markdown_extensions:
 
 nav:
   - Home:
-      - Intro: index.md
+      - About me: index.md
 
 copyright: Copyright &copy; Omar Villafuerte
 
@@ -37,6 +37,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/ovillafuerte94
       name: GitHub
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/ovillafuerte94
+      name: Gitlab
     - icon: fontawesome/solid/code
       link: https://profile.codersrank.io/user/ovillafuerte94
       name: Codersrank
