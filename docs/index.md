@@ -2,9 +2,7 @@
 
 <codersrank-summary username="ovillafuerte94"></codersrank-summary>
 
-I am Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming to UX and SEO. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. I am fast learner, hard worker and good working individually and in a team player who is proficient in an array of scripting languages and multimedia Web tools.
-
-I am always researching and learning about new technologies. I applied methodologies and agile software development tools like Git.
+I am a web developer capable of creating a web presence from scratch. Expert in writing well designed, testable and efficient code using current best practices in web development. I am always researching and learning about new technologies. I apply agile software development methodologies and tools like Git.
 
 ## Statistics
 
