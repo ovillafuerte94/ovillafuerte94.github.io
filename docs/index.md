@@ -24,7 +24,7 @@ I am a web developer capable of creating a web presence from scratch. Expert in 
 
 ## Certificates
 
-<codersrank-education username="ovillafuerte94" education="false" certificates-link="true" certificates-link="See certification" branding="false" grid="true"></codersrank-education>
+<codersrank-education username="ovillafuerte94" education="false" certificates-link="true" certificates-link="See certification" branding="false" grid="true" style="--grid-columns:2"></codersrank-education>
 
 ## Languages
 
